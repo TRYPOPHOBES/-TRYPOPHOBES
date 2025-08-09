@@ -2,7 +2,7 @@
   <a href="https://discord.com/users/885448852872790107">
     <img src="https://shields.io/badge/discord-blue?logo=discord" alt="Discord Badge"/>
   </a>
-  <a href="https://t.me/koo_0ki">
+  <a href="https://t.me/MineGreed">
     <img src="https://shields.io/badge/telegram-blue?logo=telegram" alt="Discord Badge"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=koo0ki&style=flat-square&color=blue" alt=""/>
@@ -10,7 +10,7 @@
 
 ---
 
-> # Hi 👋 My name is Koo0ki
+> # Hi 👋 My name is #TRYPOPHOBES
 
 > ### Web / Bots Developer
 I have been developing bots and backend for more than 4 years.
@@ -18,7 +18,7 @@ I have been developing bots and backend for more than 4 years.
 ---
 
 * 🌍  I'm based in Russia.
-* 🖥  See my portfolio at [My works](http://t.me/koo0kiworks).
+* 🖥  See my portfolio at [My works](https://t.me/MineGreed).
 
 ---
 > ## 💻 Languages & Tools
